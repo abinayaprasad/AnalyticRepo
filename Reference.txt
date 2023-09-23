@@ -1,0 +1,3 @@
+This is an example text file for the purpose of understanding the Git concept.
+We have two untracked files in the local system and now we need to move it to the local repository so that it can be pushed to the git repository .Inorder to store in the local repository all the files will get commited not only the selected files .SO we go for Stagging area first before moveing to the local repository.
+Between the working and Local repository there is stagging area which is required where we can move only the required files
